@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guilherme-cintra" alt="guilherme-cintra" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+
 
 - 💬 Ask me about **Android, IOS, Web Development**
 
