@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Cintra</h1>
-<h3 align="center">A passionate mobile developer from Brazil. Currently living in Canada(Quebec)</h3>
+<h3 align="center">A passionate mobile developer from Brazil/Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilherme-cintra&label=Profile%20views&color=0e75b6&style=flat" alt="guilherme-cintra" /> </p>
 
